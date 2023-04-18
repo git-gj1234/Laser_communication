@@ -1,3 +1,4 @@
+# LASER communication system using arduino 
 Demonstrates the use of Binary coded decimal to decimal number conversion and vice-versa in a LASER based communication system. 
 The sender enters a single binary digit into the serial monitor. This digit is converted to binary and sent as flashes of 
 laser pulses at desired intervals.
